@@ -23,5 +23,5 @@ https://github.com/nnsense91/coworking
 https://github.com/nnsense91/Chocco
 
 ## HOME TASK
-Сверстать две секции лендинга из assets (только html, стили не трогаем)
-ссылка на макет: https://lpmotor.ru/templates/salon-krasoty
+Сверстать два экрана лендинга из assets (только html, стили не трогаем)
+ссылка на макет: http://psd-html-css.ru/templates/agnecy-lending-psd
