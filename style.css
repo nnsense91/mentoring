@@ -1,3 +1,10 @@
-.third {
-    color: blueviolet;
+.container {
+    position: relative;
+    width: 50%;
+    border: 1px solid red;
+}
+
+.icon {
+    position: absolute;
+    left: 0;
 }
