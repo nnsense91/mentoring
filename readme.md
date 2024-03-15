@@ -8,7 +8,7 @@
 2. Способы подключения стилей
     - inline
     - `<style></style>`
-    - link rel
+    - link rel (+ асинхронная загрузка)
     - js *
    
 3. Видимость элементов
@@ -34,3 +34,5 @@ https://doka.guide/css/specificity/
 https://specificity.keegan.st/
 
 ## HOME TASK
+- Исправления HOME-TASK-1
+- Пройти https://flexboxfroggy.com/
